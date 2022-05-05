@@ -1,5 +1,4 @@
-# Trees
-This is my trees project, where I post types of tree implementations.
+Project AVL TREE
 
 Grupo:
 Luiz Eduardo Tolentino 
